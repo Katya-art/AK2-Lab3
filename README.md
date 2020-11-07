@@ -2,7 +2,7 @@
 
 -a --author                       - project author
 
--f<filename> --file=<filename>    - set file name
+-f <filename> --file = <filename>    - set file name
 
 -n --n                            - take file name
 
