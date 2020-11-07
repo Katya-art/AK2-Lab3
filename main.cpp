@@ -12,8 +12,7 @@
 #include <unistd.h>
 #include <getopt.h>
 
-int
-main (int argc, char *argv[])
+int main (int argc, char *argv[])
 {
     int c;
     bool flag_a = false;
