@@ -9,3 +9,5 @@
 -h --help                         - help
 
 -v --version                      - program's version
+
+# Файл звіту: AK2-Lab3.docx
