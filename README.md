@@ -10,4 +10,4 @@
 
 -v --version                      - program's version
 
-# Файл звіту: AK2-Lab3.docx
+# Файл звіту: AK2_Lab3.docx
